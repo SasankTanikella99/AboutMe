@@ -87,24 +87,24 @@ const About: React.FC = () => {
               <div className="space-y-4">
                 <div className="border-l-2 border-blue-500 pl-4 py-2">
                   <div className="flex justify-between items-start">
-                    <h4 className="font-medium">Senior Software Engineer</h4>
-                    <span className="text-sm text-slate-500 dark:text-slate-400">2021 - Present</span>
+                    <h4 className="font-medium">Software Engineer</h4>
+                    <span className="text-sm text-slate-500 dark:text-slate-400">Jun 2024 - Present</span>
                   </div>
-                  <p className="text-slate-600 dark:text-slate-400">Company Name</p>
+                  <p className="text-slate-600 dark:text-slate-400">Tcrest</p>
                 </div>
                 <div className="border-l-2 border-blue-500 pl-4 py-2">
                   <div className="flex justify-between items-start">
                     <h4 className="font-medium">Software Engineer</h4>
-                    <span className="text-sm text-slate-500 dark:text-slate-400">2018 - 2021</span>
+                    <span className="text-sm text-slate-500 dark:text-slate-400">Feb 2024 - Jun 2024</span>
                   </div>
-                  <p className="text-slate-600 dark:text-slate-400">Company Name</p>
+                  <p className="text-slate-600 dark:text-slate-400">Saayam for all</p>
                 </div>
                 <div className="border-l-2 border-blue-500 pl-4 py-2">
                   <div className="flex justify-between items-start">
                     <h4 className="font-medium">Junior Developer</h4>
-                    <span className="text-sm text-slate-500 dark:text-slate-400">2016 - 2018</span>
+                    <span className="text-sm text-slate-500 dark:text-slate-400">Jan 2020 - Jul 2021</span>
                   </div>
-                  <p className="text-slate-600 dark:text-slate-400">Company Name</p>
+                  <p className="text-slate-600 dark:text-slate-400">Indian Servers</p>
                 </div>
               </div>
             </div>
